@@ -1,0 +1,9 @@
+{
+  "name": "servicenow-integration-patterns",
+  "version": "1.0.0",
+  "description": "Clean-room ServiceNow integration patterns: outbound REST with retries, Scripted REST intake API, Transform Map validation",
+  "private": true,
+  "license": "MIT",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=18" }
+}
